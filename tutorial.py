@@ -1,5 +1,5 @@
 print("this is a git tutorial")
-print("hello world")
+print("hello world devel")
 print("hey")
 print("im great")
 print("added from remote")
